@@ -1,0 +1,20 @@
+team_name,week,day,date,result,opponent,tm_score,opp_score,1stD_offense,TotYd_offense,PassY_offense,RushY_offense,TO_offense,1stD_defense,TotYd_defense,PassY_defense,RushY_defense,TO_defense
+Dallas Cowboys,1,Sun,September 11,L,Tampa Bay Buccaneers,3,19,12,244,173,71,1,18,347,195,152,1
+Dallas Cowboys,2,Sun,September 18,W,Cincinnati Bengals,20,17,19,337,230,107,1,19,254,165,89,0
+Dallas Cowboys,3,Mon,September 26,W,New York Giants,23,16,23,391,215,176,0,22,336,169,167,1
+Dallas Cowboys,4,Sun,October 2,W,Washington Commanders,25,10,15,279,217,62,0,17,297,155,142,2
+Dallas Cowboys,5,Sun,October 9,W,Los Angeles Rams,22,10,10,239,76,163,0,14,323,285,38,3
+Dallas Cowboys,6,Sun,October 16,L,Philadelphia Eagles,17,26,21,315,181,134,3,22,268,132,136,0
+Dallas Cowboys,7,Sun,October 23,W,Detroit Lions,24,6,21,330,191,139,1,18,312,195,117,5
+Dallas Cowboys,8,Sun,October 30,W,Chicago Bears,49,29,24,442,242,200,1,22,371,131,240,1
+Dallas Cowboys,9,Sun,November 13,L,Green Bay Packers,28,31,24,421,262,159,2,20,415,208,207,2
+Dallas Cowboys,10,Sun,November 20,W,Minnesota Vikings,40,3,23,458,307,151,0,16,183,110,73,1
+Dallas Cowboys,11,Thu,November 24,W,New York Giants,28,20,26,430,261,169,2,21,300,210,90,0
+Dallas Cowboys,12,Sun,December 4,W,Indianapolis Colts,54,19,23,385,165,220,1,18,309,203,106,5
+Dallas Cowboys,13,Sun,December 11,W,Houston Texans,27,23,21,404,277,127,3,16,327,213,114,2
+Dallas Cowboys,14,Sun,December 18,L,Jacksonville Jaguars,34,40,24,397,243,154,2,26,503,311,192,3
+Dallas Cowboys,15,Sat,December 24,W,Philadelphia Eagles,40,34,25,419,304,115,1,25,442,355,87,4
+Dallas Cowboys,16,Thu,December 29,W,Tennessee Titans,27,13,26,361,274,87,3,17,317,220,97,2
+Dallas Cowboys,17,Sun,January 8,L,Washington Commanders,6,26,10,182,118,64,2,16,309,158,151,1
+Dallas Cowboys,18,Mon,January 16,W,Tampa Bay Buccaneers,31,14,26,425,297,128,0,24,386,334,52,1
+Dallas Cowboys,19,Sun,January 22,L,San Francisco 49ers,12,19,15,282,206,76,2,21,312,199,113,1
